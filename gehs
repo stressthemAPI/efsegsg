@@ -2,4 +2,3 @@ local Animate = game.Players.LocalPlayer.Character.Animate
 
 Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=707742142"
 Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=707855907"
-game.Players.LocalPlayer.Character.Humanoid.Jump = true
